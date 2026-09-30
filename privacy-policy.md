@@ -98,7 +98,7 @@ We do not collect your precise location, contacts list, photo library, browsing 
 
 We use the information above to:
 
-- **Read and organize what you share.** When you share a post, the link, any shared text, and the text recognized from your screenshots are sent to our servers. Our servers may retrieve the post's publicly available caption, transcript, top comments, and images through our content-retrieval provider, and then send that content (text and, for some posts, the post's public images) to OpenAI to identify what kind of information it is and produce a title, summary, and organized note. Processing can start as soon as you share, even before you open the App.
+- **Read and organize what you share.** When you share a post, the link, any shared text, and the text recognized from your screenshots are sent to our servers. Our servers may retrieve the post's publicly available caption, transcript, top comments, and images through a content-retrieval software vendor, and then send that content (text and, for some posts, the post's public images) to OpenAI to identify what kind of information it is and produce a title, summary, and organized note. Processing can start as soon as you share, even before you open the App.
 - **Recognize text in screenshots.** Text recognition runs on your phone. The recognized text is then processed as described above.
 - **Save and sync your posts** to your account, and restore them when you reinstall or sign in on a new phone.
 - **Take actions you ask for**, such as adding a contact or scheduling a reminder.
@@ -113,9 +113,9 @@ Authorized Company staff can view account email addresses, plans, usage counts, 
 
 | Provider | What it does for Keepr | Information involved |
 |---|---|---|
-| Supabase | Database, file storage, authentication, and server functions (United States – Ohio) | Account, saved posts and images, extracted notes, usage, diagnostics, feedback, fraud-prevention hashes |
+| Cloud hosting and database vendor | Database, file storage, authentication, and server functions (United States) | Account, saved posts and images, extracted notes, usage, diagnostics, feedback, fraud-prevention hashes |
 | OpenAI | AI model that turns a shared post into an organized note | Text of the post you shared (link, caption, transcript, comments, recognized screenshot text) and, for some posts, the post's public images |
-| Scrape Creators | Retrieves the publicly available caption, transcript, comments, and images of a post you share | The link you shared |
+| Content-retrieval software vendor | Retrieves the publicly available caption, transcript, comments, and images of a post you share | The link you shared |
 | Resend | Sends sign-in codes, password resets, trial reminders, and feedback emails | Your email address and the email content |
 | Apple | Sign in with Apple, App Store subscriptions, DeviceCheck | As described in Apple's privacy policy |
 | Google | Sign in with Google | As described in Google's privacy policy |
@@ -141,7 +141,7 @@ We may use aggregated or de-identified information that can't reasonably be link
 
 The App is not affiliated with, endorsed by, or sponsored by Meta Platforms, Inc., Instagram, Facebook, TikTok, YouTube, Google, or WhatsApp. Their names are used only to describe compatibility.
 
-**How we get content from a link you share.** The App does not log into those platforms or access your account there. Our content-retrieval provider, Scrape Creators, retrieves the publicly available caption, transcript, top comments, and images associated with that specific link, which OpenAI then reads and organizes. We only process the individual link you chose to share.
+**How we get content from a link you share.** The App does not log into those platforms or access your account there. A content-retrieval software vendor we use retrieves the publicly available caption, transcript, top comments, and images associated with that specific link, which OpenAI then reads and organizes. We only process the individual link you chose to share.
 
 **We can only see what's public.** If a post is from a private account or has restricted visibility, it cannot be retrieved, and the App can only use what you shared directly (such as a screenshot or text).
 
@@ -202,7 +202,7 @@ You may authorize an agent to submit a request on your behalf where applicable l
 
 **Children.** The App is not directed to, and is not intended for use by, children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, contact us and we will delete it.
 
-**International data transfers.** Our servers, provided by Supabase, are located in the United States (Ohio), and our service providers may process data in the United States. If you use the App from outside the United States, your information will be transferred to and processed in the United States. Where required by law, we use appropriate safeguards, such as Standard Contractual Clauses, for transfers from the EEA, UK, and Switzerland.
+**International data transfers.** Our servers, provided by our cloud hosting vendor, are located in the United States, and our service providers may process data in the United States. If you use the App from outside the United States, your information will be transferred to and processed in the United States. Where required by law, we use appropriate safeguards, such as Standard Contractual Clauses, for transfers from the EEA, UK, and Switzerland.
 
 ## 11. Changes to This Policy & Contact Us
 
