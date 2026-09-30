@@ -70,7 +70,7 @@ When you open the App or your plan changes, the App sends a usage signal contain
 
 ### Diagnostic information
 
-To fix mistakes and improve extraction quality, the App may send a diagnostic report when a share is processed, when you correct the category of a post, when processing fails, or after the App closes unexpectedly. A report can include the shared link, the platform, the creator's name, the title and summary we extracted, the type of note produced, any error message, the app build, and the device model. A crash report can include the last link you shared.
+When our servers process a share, they record technical details linked to your account — the platform, the type of note produced, whether processing succeeded, how long it took, and the processing resources used — so we can fix problems and manage costs. These records don't include the content of your post. If you've chosen to share analytics with app developers in your iPhone's settings, Apple may also provide us with crash reports, which don't identify you.
 
 ### Fraud prevention (free trial)
 
@@ -107,7 +107,7 @@ We use the information above to:
 - **Operate, maintain, and secure the App**, diagnose bugs, and prevent abuse.
 - **Improve the App**, including the accuracy of extraction and categorization.
 
-Authorized Company staff can view account email addresses, plans, usage counts, and feedback in an internal administration dashboard, for support and operations only.
+Authorized Company staff can view account email addresses, plans, usage counts, and feedback in an internal administration dashboard, for support and operations only. Authorized staff may also review saved content, such as shared links and extracted notes, to troubleshoot problems and improve extraction quality. Access is limited to people who need it for these purposes.
 
 ### Our service providers
 
