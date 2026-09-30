@@ -210,8 +210,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 **Contact us**
 
-Sysna Corp Solutions
-Texas, USA
+Sysna Corp Solutions<br>
+Texas, USA<br>
 Email: [support@sysnacorpsolutions.com](mailto:support@sysnacorpsolutions.com)
 
 If you're in the EEA or UK and believe we haven't addressed your concern, you also have the right to lodge a complaint with your local data protection authority.
