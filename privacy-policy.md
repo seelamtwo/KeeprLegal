@@ -191,6 +191,7 @@ Depending on your location, you may have the right to:
 - Export your content — use **Export** in the Stash (everything, one category, or one entry) or on any post to send a plain-text copy by email, Messages, Notes, Files, or other apps
 - Object to or restrict certain processing
 - Withdraw consent where processing is based on consent
+- Lodge a complaint with your local data protection authority (EEA, UK, and Switzerland)
 
 Residents of the EEA, UK, and Switzerland have these rights under the GDPR/UK GDPR; residents of California and other U.S. states with comprehensive privacy laws have similar rights. To exercise any right, contact us (Section 11) or use the in-app options above. You can revoke device permissions at any time in your iPhone's Settings.
 
