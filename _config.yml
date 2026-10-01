@@ -1,3 +1,4 @@
 title: Keepr
 description: Legal documents for the Keepr iOS app
 theme: jekyll-theme-minimal
+exclude: [build-sysnacorp.mjs, package.json, package-lock.json, node_modules]

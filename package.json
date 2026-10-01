@@ -1,0 +1,11 @@
+{
+  "name": "keepr-legal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:site": "node build-sysnacorp.mjs"
+  },
+  "devDependencies": {
+    "marked": "^14.1.4"
+  }
+}
