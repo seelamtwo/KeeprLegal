@@ -31,11 +31,15 @@ Keepr lets you share links, posts, screenshots, and text from other apps and tur
 
 You keep ownership of the content you save to Keepr, including links, screenshots, text, and notes ("Your Content"). You grant us a limited, worldwide, non-exclusive, royalty-free license to host, store, copy, process, and display Your Content only as needed to operate, secure, and improve the App and to provide it to you, including sending it to the service providers described in the Privacy Policy. This license ends when you delete the content or your account, except for copies kept in routine backups for a limited time or as required by law.
 
-You are responsible for Your Content and confirm that you have the right to save and process it. Keepr is intended for saving content for your own personal reference.
+You are responsible for Your Content and confirm that you have the right to save and process it, and that your saving, importing, and sharing of it complies with applicable law and with the terms of the platform or website it came from. Keepr is intended for saving content for your own personal reference.
 
 ## 5. Third-Party Content and Platforms
 
-Content you save often comes from other people and from platforms such as Instagram, TikTok, YouTube, Facebook, and WhatsApp. That content belongs to its owners and remains subject to their rights and to those platforms' terms. Keepr is not affiliated with, endorsed by, or sponsored by those platforms. We can only retrieve content that is publicly available, and access may change or stop if a platform restricts it. Links to third-party websites or services are provided for convenience; we are not responsible for them.
+Content you save often comes from other people and from platforms such as Instagram, TikTok, YouTube, Facebook, and WhatsApp. That content belongs to its owners and remains subject to their rights and to those platforms' terms. Keepr is not affiliated with, endorsed by, or sponsored by those platforms. We can only retrieve content that is publicly available. If a platform or website restricts access or changes its service, retrieving content from it may become less reliable or stop working, and the App may only be able to use what you share directly (such as a screenshot or text). Links to third-party websites or services are provided for convenience; we are not responsible for them.
+
+**Other people's information.** Posts can include other people's names, usernames, comments, or photos. Please don't save personal information about other people unless you have the right to do so, and use what you save only for your own reference.
+
+**Copyright complaints.** We respect the rights of content owners. If you believe content saved or displayed through Keepr infringes your copyright or other rights, email [support@sysnacorpsolutions.com](mailto:support@sysnacorpsolutions.com) with: your contact details; a description of the work and your rights in it; enough information to identify the content (such as the original post's link); and a statement that you have a good-faith belief the use is not authorized and that your notice is accurate. We will review valid notices promptly and remove or disable access to the content where appropriate, and we may suspend accounts that repeatedly infringe others' rights.
 
 ## 6. AI-Generated Notes and No Professional Advice
 

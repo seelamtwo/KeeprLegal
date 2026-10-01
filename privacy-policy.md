@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 
 # Keepr Privacy Policy
 
-**Effective date:** September 30, 2026
+**Effective date:** October 1, 2026
 
 ## Key Points About Our Privacy Practices
 
@@ -149,6 +149,8 @@ The App is not affiliated with, endorsed by, or sponsored by Meta Platforms, Inc
 
 **Changes to platform access.** Because this depends on publicly available data and third-party providers, these features may change or become less reliable if a platform restricts public access or a provider changes its service.
 
+**Your responsibilities and other people's information.** Content you save remains subject to the rights of its owners and the terms of the platform it came from; Keepr is for saving content for your own personal reference, and you're responsible for making sure your use complies with applicable law and those terms. Public posts and their top comments can include other people's names, usernames, or photos. Please avoid saving personal information about other people unless you have the right to do so. Content owners can ask us to remove content as described in our [Terms of Use](../terms-of-use/).
+
 ## 6. How We Share Information
 
 We do not sell your personal information. We share information only:
@@ -213,5 +215,3 @@ We may update this Privacy Policy from time to time. If we make material changes
 Sysna Corp Solutions<br>
 Texas, USA<br>
 Email: [support@sysnacorpsolutions.com](mailto:support@sysnacorpsolutions.com)
-
-If you're in the EEA or UK and believe we haven't addressed your concern, you also have the right to lodge a complaint with your local data protection authority.
