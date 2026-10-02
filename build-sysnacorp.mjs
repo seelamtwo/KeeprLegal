@@ -48,7 +48,7 @@ function page(title, body, description) {
 <body>
 <header><div class="bar">
   <img src="/keepr/icon.png" alt="" /><a class="brand" href="/keepr/">Keepr</a>
-  <nav><a href="/keepr/privacy-policy/">Privacy Policy</a><a href="/keepr/terms-of-use/">Terms of Use</a><a href="mailto:support@sysnacorpsolutions.com">Support</a></nav>
+  <nav><a href="/keepr/privacy-policy/">Privacy Policy</a><a href="/keepr/terms-of-use/">Terms of Use</a><a href="/keepr/support/">Support</a></nav>
 </div></header>
 <main>
 ${body}
@@ -86,7 +86,7 @@ const home = `
 <ul>
   <li><a href="/keepr/privacy-policy/">Privacy Policy</a></li>
   <li><a href="/keepr/terms-of-use/">Terms of Use</a></li>
-  <li>Support: <a href="mailto:support@sysnacorpsolutions.com">support@sysnacorpsolutions.com</a></li>
+  <li><a href="/keepr/support/">Support &amp; FAQ</a> · <a href="mailto:support@sysnacorpsolutions.com">support@sysnacorpsolutions.com</a></li>
 </ul>
 <p>Keepr is developed by Sysna Corp Solutions. Keepr is not affiliated with Instagram, Meta, TikTok, YouTube, or Google.</p>
 `;
@@ -95,4 +95,5 @@ mkdirSync(out, { recursive: true });
 writeFileSync(join(out, "index.html"), page("Keepr — save what you scroll", home, "Keepr turns the posts, videos, links, and screenshots you share into organized notes."));
 renderDoc("privacy-policy.md", "privacy-policy", "How Keepr collects, uses, and protects your information.");
 renderDoc("terms-of-use.md", "terms-of-use", "Terms of Use for the Keepr app.");
+renderDoc("support.md", "support", "Get help with Keepr: contact support and answers to common questions.");
 console.log("wrote", out);
