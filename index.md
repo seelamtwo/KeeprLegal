@@ -6,5 +6,6 @@ title: Keepr Legal
 
 - [Privacy Policy](privacy-policy/)
 - [Terms of Use](terms-of-use/)
+- [Support](support/)
 
 Questions? Email [support@sysnacorpsolutions.com](mailto:support@sysnacorpsolutions.com).
